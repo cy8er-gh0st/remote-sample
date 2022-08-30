@@ -8,5 +8,6 @@
 </head>
 <body>
     Paymemt form
+    <button type="button" name="button">Pay</button>
 </body>
 </html>
